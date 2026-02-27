@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mini Guide: Your Topic</title>
+</head>
+<body>
+  <header>
+    <h1>Mini Guide: Your Topic</h1>
+        <h2>Mini Guide: Your Topic</h2>
+    <h3>Mini Guide: Your Topic</h3>
+        <h4>Mini Guide: Your Topic</h4>
+        <h5>Mini Guide: Your Topic</h5>
+    <h6>Mini Guide: Your Topic</h6>
+
+    <p>A short description for first-year students.</p>
+  </header>
+
+  <nav aria-label="Page">
+    <ul>
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#how-to-start">How to Start</a></li>
+      <li><a href="#resources">Resources</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="overview">
+      <h2>Overview</h2>
+      <p>Introduce the topic in a few sentences.</p>
+
+      <figure>
+        <img src="example.jpg" alt="Describe the key subject of the image briefly.">
+        <figcaption>Figure 1. A relevant photo with a helpful caption.</figcaption>
+      </figure>
+
+      <blockquote cite="https://example.com/source-article">
+        <p>“Insert a short quote you found from a credible source.”</p>
+      </blockquote>
+    </section>
+
+    <section id="how-to-start">
+      <h2>How to Start</h2>
+      <h3>Basic Steps</h3>
+      <ol>
+        <li>First step.</li>
+        <li>Second step.</li>
+        <li>Third step.</li>
+      </ol>
+
+      <h3>What You’ll Need</h3>
+      <ul>
+        <li>Item one</li>
+        <li>Item two</li>
+        <li>Item three</li>
+      </ul>
+    </section>
+
+    <section id="resources">
+      <h2>Resources</h2>
+      <p>Explore these links to learn more:</p>
+      <ul>
+        <li><a href="https://example.com/guide">Descriptive Guide Title</a></li>
+        <li><a href="https://example.com/tutorial">Helpful Tutorial</a></li>
+      </ul>
+
+
+
+
+      <table>
+        <caption>Quick Facts</caption>
+        <thead>
+          <tr>
+            <th scope="col">Fact</th>
+            <th scope="col">Detail</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">Difficulty</th>
+            <td>Beginner</td>
+          </tr>
+          <tr>
+            <th scope="row">Time</th>
+            <td>~2 hours</td>
+          </tr>
+        </tbody>
+      </table>
+
+
+      <audio controls>
+        <source src="media/short-intro.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      -->
+    </section>
+  </main>
+
+  <aside>
+    <h2>Tips</h2>
+    <p>Short, helpful tip related to your topic.</p>
+  </aside>
+
+  <footer>
+    <p>Questions? <a href="mailto:youremail@university.edu">Email me</a>.</p>
+    <p>&copy; 2025 Your Name</p>
+  </footer>
+</body>
+</html>
